@@ -4,6 +4,7 @@ import hotel.quartos;
 public class Main {
 
 	public static void main(String[] args) {
+		System.out.println("Bom dia");
             Scanner sc = new Scanner(System.in);
             System.out.println("Quantos quartos foram alugados?");
             int n = sc.nextInt();
